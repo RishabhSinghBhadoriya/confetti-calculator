@@ -2,6 +2,7 @@
   "name": "confetti-calculator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://RishabhSinghBhadoriya.github.io/confetti-calculator/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
